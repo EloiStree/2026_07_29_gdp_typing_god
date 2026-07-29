@@ -1,6 +1,6 @@
 
 ```
-git submodule add https://github.com/EloiStree/2026_07_29_gdp_typing_god.git
+git submodule add https://github.com/EloiStree/2026_07_29_gdp_typing_god.git addons/2026_07_29_gdp_typing_god
 ```
 
 # 2026_07_29_gdp_typing_god
